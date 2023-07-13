@@ -6,7 +6,7 @@ This repository contains the source code for the Electric Vehicle Dashboard's Co
 
 - Bluetooth Sync API 2.0 integration for fetching contacts from the server
 - Displaying synchronized contacts on the dashboard
-- Filtering contacts by name or email
+- Filtering contacts by name
 - Pagination for displaying contacts in batches
 
 ## Getting Started
