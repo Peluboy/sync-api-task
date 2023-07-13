@@ -1,0 +1,51 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #e6e6e6;
+}
+
+h2 {
+  line-height: 0;
+}
+
+input {
+  width: 300px;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  outline: 0;
+  border: 1px solid #999999;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.photo {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+}
+
+.user-info p {
+  line-height: 0.5;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #e6e6e6;
+}
+
+.pagination-btns {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
